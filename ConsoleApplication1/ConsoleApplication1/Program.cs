@@ -10,9 +10,10 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            string s1 = "first", s2 = "second";
+            string s1 = "first", s2 = "second", s3 = "third";
             Console.WriteLine(s1);
             Console.WriteLine(s2);
+            Console.WriteLine(s3);
         }
     }
 }
