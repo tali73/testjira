@@ -17,6 +17,7 @@ namespace ConsoleApplication1
             Console.WriteLine(s4);
             int x = 15;
             x++;
+            x += 2;
             Console.WriteLine(x);
         }
     }
