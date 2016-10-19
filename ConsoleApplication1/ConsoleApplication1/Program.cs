@@ -18,6 +18,8 @@ namespace ConsoleApplication1
             int x = 15;
             x++;
             x += 2;
+            x += 3;
+            x += 4;
             Console.WriteLine(x);
         }
     }
