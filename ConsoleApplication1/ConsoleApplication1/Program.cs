@@ -25,6 +25,7 @@ namespace ConsoleApplication1
             x += 7;
             x += 8; x++;
             x += 9;
+            x += 10;
             Console.WriteLine(x);
         }
     }
