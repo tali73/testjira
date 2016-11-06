@@ -35,6 +35,7 @@ namespace ConsoleApplication1
             x += 17;
             x += 16;
             x += 17;
+            x += 18;
             Console.WriteLine(x);
         }
     }
